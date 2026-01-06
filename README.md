@@ -26,6 +26,12 @@ HTML • CSS • JavaScript • React • Git • GitHub
 
 ---
 
-## 🌐 Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kildare%20Alves-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kildare-alves-554208175)
-[![GitHub](https://img.shields.io/badge/GitHub-KillDare-181717?style=flat&logo=github&logoColor=white)](https://github.com/KillDare)
+### 🌐 Contato
+
+<a href="https://www.linkedin.com/in/kildare-alves-554208175" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" />
+</a>
+<a href="https://github.com/KillDare" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" />
+</a>
+
