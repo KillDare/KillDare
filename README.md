@@ -46,14 +46,8 @@ Sou graduado em **Engenharia da Computação pela UEMG** e estou em constante ev
 ## 📫 Contato
 
 <p>
-  <a href="https://www.linkedin.com/in/kildare-alves-554208175">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28"/>
-  </a>
-
-  <a href="https://github.com/KillDare">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg#gh-light-mode-only" width="28"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-white.svg#gh-dark-mode-only" width="28"/>
-  </a>
+  <a href="https://www.linkedin.com/in/kildare-alves-554208175">LinkedIn</a> ·
+  <a href="https://github.com/KillDare">GitHub</a>
 </p>
 
 ---
