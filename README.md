@@ -1,16 +1,31 @@
-## Hi there 👋
+# Kildare Alves 👋
 
-<!--
-**KillDare/KillDare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Front-end focado em JavaScript, React e interfaces modernas.
+Experiência prévia com desenvolvimento multiplataforma em Delphi,
+integrações com APIs e bancos de dados.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+- 💻 Desenvolvedor Front-end
+- 🧠 Experiência com Delphi, APIs REST e bancos de dados
+- 📱 Estudando React e React Native
+- 🎓 Engenheiro da Computação (UEMG)
+- 📍 Brasil
+
+---
+
+## 🛠️ Tecnologias
+HTML • CSS • JavaScript • React • Git • GitHub
+
+---
+
+## 📌 Projetos em destaque
+- 🔗 **Portfólio pessoal**  
+  👉 https://killdare.github.io/portfolio-kildare
+
+---
+
+## 🌐 Contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kildare%20Alves-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kildare-alves-554208175)
+[![GitHub](https://img.shields.io/badge/GitHub-KillDare-181717?style=flat&logo=github&logoColor=white)](https://github.com/KillDare)
