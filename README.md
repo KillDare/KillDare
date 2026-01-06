@@ -13,7 +13,7 @@ Atualmente, direciono meus estudos e projetos para o **desenvolvimento front-end
 
 Também estou aprofundando meus conhecimentos em **React Native**, com o objetivo de desenvolver aplicações mobile performáticas e escaláveis.
 
-Sou graduado em **Engenharia da Computação pela UEMG** e estou em constante evolução técnica.
+Sou graduado em **Engenharia da Computação** e estou em constante evolução técnica.
 
 ---
 
