@@ -21,10 +21,10 @@ Sou graduado em **Engenharia da Computação** e estou em constante evolução t
 
 **Front-end**
 <div style="display flex" align="left">
-  <span style="display:inline-flex;align-items:center;justify-content:center;width:56px;height:56px;border:1px solid #30363d;border-radius:14px;margin:6px;">
+  <span style="width:56px;height:56px;border:1px solid #30363d;border-radius:14px;margin:auto;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" title="HTML5" />
   </span>
-  <span style="display:inline-flex;align-items:center;justify-content:center;width:56px;height:56px;border:1px solid #30363d;border-radius:14px;margin:6px;">
+  <span style="align-items:center;justify-content:center;width:56px;height:56px;border:1px solid #30363d;border-radius:14px;margin:6px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" title="CSS3" />
   </span>
   <span style="display:inline-flex;align-items:center;justify-content:center;width:56px;height:56px;border:1px solid #30363d;border-radius:14px;margin:6px;">
