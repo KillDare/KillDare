@@ -20,43 +20,46 @@ Sou graduado em **Engenharia da Computação** e estou em constante evolução t
 ## 🛠️ Tecnologias
 
 **Front-end**
-<p align="left">
-  <span style="display:inline-flex;align-items:center;justify-content:center;width:52px;height:52px;border:1px solid #30363d;border-radius:12px;margin:4px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="28" />
-  </span>
-  <span style="display:inline-flex;align-items:center;justify-content:center;width:52px;height:52px;border:1px solid #30363d;border-radius:12px;margin:4px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="28" />
-  </span>
-  <span style="display:inline-flex;align-items:center;justify-content:center;width:52px;height:52px;border:1px solid #30363d;border-radius:12px;margin:4px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="28" />
-  </span>
-  <span style="display:inline-flex;align-items:center;justify-content:center;width:52px;height:52px;border:1px solid #30363d;border-radius:12px;margin:4px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="28" />
-  </span>
-  <span style="display:inline-flex;align-items:center;justify-content:center;width:52px;height:52px;border:1px solid #30363d;border-radius:12px;margin:4px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="28" />
-  </span>
-  <span style="display:inline-flex;align-items:center;justify-content:center;width:52px;height:52px;border:1px solid #30363d;border-radius:12px;margin:4px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" width="28" />
-  </span>
-</p>
+<table>
+  <tr>
+    <td align="center" width="60">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32" title="HTML5" />
+    </td>
+    <td align="center" width="60">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="32" title="CSS3" />
+    </td>
+    <td align="center" width="60">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32" title="JavaScript" />
+    </td>
+    <td align="center" width="60">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="32" title="TypeScript" />
+    </td>
+    <td align="center" width="60">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32" title="React" />
+    </td>
+    <td align="center" width="60">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" width="32" title="React Native" />
+    </td>
+  </tr>
+</table>
 
 
 **Base técnica**
-<p align="left">
-  <span style="display:inline-flex;align-items:center;justify-content:center;width:52px;height:52px;border:1px solid #30363d;border-radius:12px;margin:4px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/delphi/delphi-original.svg" width="28" title="Delphi" />
-  </span>
-  <span style="display:inline-flex;align-items:center;justify-content:center;width:52px;height:52px;border:1px solid #30363d;border-radius:12px;margin:4px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" width="28" title="MariaDB" />
-  </span>
-  <span style="display:inline-flex;align-items:center;justify-content:center;width:52px;height:52px;border:1px solid #30363d;border-radius:12px;margin:4px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="28" title="MySQL" />
-  </span>
-</p>
+<table>
+  <tr>
+    <td align="center" width="60">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/delphi/delphi-original.svg" width="32" title="Delphi" />
+    </td>
+    <td align="center" width="60">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" width="32" title="MariaDB" />
+    </td>
+    <td align="center" width="60">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="32" title="MySQL" />
+    </td>
+  </tr>
+</table>
 
           
-
 ---
 
 ## 📌 Projetos em destaque
