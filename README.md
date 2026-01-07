@@ -20,16 +20,42 @@ Sou graduado em **Engenharia da Computação** e estou em constante evolução t
 ## 🛠️ Tecnologias
 
 **Front-end**
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- React
-- React Native
+<p align="left">
+  <span style="display:inline-flex;align-items:center;justify-content:center;width:52px;height:52px;border:1px solid #30363d;border-radius:12px;margin:4px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="28" />
+  </span>
+  <span style="display:inline-flex;align-items:center;justify-content:center;width:52px;height:52px;border:1px solid #30363d;border-radius:12px;margin:4px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="28" />
+  </span>
+  <span style="display:inline-flex;align-items:center;justify-content:center;width:52px;height:52px;border:1px solid #30363d;border-radius:12px;margin:4px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="28" />
+  </span>
+  <span style="display:inline-flex;align-items:center;justify-content:center;width:52px;height:52px;border:1px solid #30363d;border-radius:12px;margin:4px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="28" />
+  </span>
+  <span style="display:inline-flex;align-items:center;justify-content:center;width:52px;height:52px;border:1px solid #30363d;border-radius:12px;margin:4px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="28" />
+  </span>
+  <span style="display:inline-flex;align-items:center;justify-content:center;width:52px;height:52px;border:1px solid #30363d;border-radius:12px;margin:4px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" width="28" />
+  </span>
+</p>
+
 
 **Base técnica**
-- Integração com APIs REST
-- Consumo e manipulação de dados
-- Versionamento com Git e GitHub
+<p align="left">
+  <span style="display:inline-flex;align-items:center;justify-content:center;width:52px;height:52px;border:1px solid #30363d;border-radius:12px;margin:4px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/delphi/delphi-original.svg" width="28" title="Delphi" />
+  </span>
+  <span style="display:inline-flex;align-items:center;justify-content:center;width:52px;height:52px;border:1px solid #30363d;border-radius:12px;margin:4px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" width="28" title="MariaDB" />
+  </span>
+  <span style="display:inline-flex;align-items:center;justify-content:center;width:52px;height:52px;border:1px solid #30363d;border-radius:12px;margin:4px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="28" title="MySQL" />
+  </span>
+</p>
+
+          
 
 ---
 
