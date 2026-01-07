@@ -20,44 +20,42 @@ Sou graduado em **Engenharia da Computação** e estou em constante evolução t
 ## 🛠️ Tecnologias
 
 **Front-end**
-<table>
-  <tr>
-    <td align="center" width="60">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32" title="HTML5" />
-    </td>
-    <td align="center" width="60">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="32" title="CSS3" />
-    </td>
-    <td align="center" width="60">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32" title="JavaScript" />
-    </td>
-    <td align="center" width="60">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="32" title="TypeScript" />
-    </td>
-    <td align="center" width="60">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32" title="React" />
-    </td>
-    <td align="center" width="60">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" width="32" title="React Native" />
-    </td>
-  </tr>
-</table>
+<div align="left">
+  <div style="display:inline-flex;align-items:center;justify-content:center;width:56px;height:56px;border:1px solid #30363d;border-radius:14px;margin:6px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" title="HTML5" />
+  </div>
+  <div style="display:inline-flex;align-items:center;justify-content:center;width:56px;height:56px;border:1px solid #30363d;border-radius:14px;margin:6px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" title="CSS3" />
+  </div>
+  <div style="display:inline-flex;align-items:center;justify-content:center;width:56px;height:56px;border:1px solid #30363d;border-radius:14px;margin:6px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" title="JavaScript" />
+  </div>
+  <div style="display:inline-flex;align-items:center;justify-content:center;width:56px;height:56px;border:1px solid #30363d;border-radius:14px;margin:6px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="30" title="TypeScript" />
+  </div>
+  <div style="display:inline-flex;align-items:center;justify-content:center;width:56px;height:56px;border:1px solid #30363d;border-radius:14px;margin:6px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" title="React" />
+  </div>
+  <div style="display:inline-flex;align-items:center;justify-content:center;width:56px;height:56px;border:1px solid #30363d;border-radius:14px;margin:6px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" width="30" title="React Native" />
+  </div>
+</div>
+
 
 
 **Base técnica**
-<table>
-  <tr>
-    <td align="center" width="60">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/delphi/delphi-original.svg" width="32" title="Delphi" />
-    </td>
-    <td align="center" width="60">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" width="32" title="MariaDB" />
-    </td>
-    <td align="center" width="60">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="32" title="MySQL" />
-    </td>
-  </tr>
-</table>
+<div align="left">
+  <div style="display:inline-flex;align-items:center;justify-content:center;width:56px;height:56px;border:1px solid #30363d;border-radius:14px;margin:6px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/delphi/delphi-original.svg" width="30" title="Delphi" />
+  </div>
+  <div style="display:inline-flex;align-items:center;justify-content:center;width:56px;height:56px;border:1px solid #30363d;border-radius:14px;margin:6px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" width="30" title="MariaDB" />
+  </div>
+  <div style="display:inline-flex;align-items:center;justify-content:center;width:56px;height:56px;border:1px solid #30363d;border-radius:14px;margin:6px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="30" title="MySQL" />
+  </div>
+</div>
+
 
           
 ---
