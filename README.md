@@ -20,7 +20,7 @@ Sou graduado em **Engenharia da Computação** e estou em constante evolução t
 ## 🛠️ Tecnologias
 
 **Front-end**
-<div style="display flex" align="left">
+<div style="border:1px solid #30363d;border-radius:14px;margin:auto;" align="left">
   <span style="width:56px;height:56px;border:1px solid #30363d;border-radius:14px;margin:auto;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" title="HTML5" />
   </span>
