@@ -20,26 +20,45 @@ Sou graduado em **Engenharia da Computação** e estou em constante evolução t
 ## 🛠️ Tecnologias
 
 **Front-end**
-<div style="border:1px solid #30363d;border-radius:14px;margin:auto;" align="left">
-  <span style="width:56px;height:56px;border:1px solid #30363d;border-radius:14px;margin:auto;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" title="HTML5" />
-  </span>
-  <span style="align-items:center;justify-content:center;width:56px;height:56px;border:1px solid #30363d;border-radius:14px;margin:6px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" title="CSS3" />
-  </span>
-  <span style="display:inline-flex;align-items:center;justify-content:center;width:56px;height:56px;border:1px solid #30363d;border-radius:14px;margin:6px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" title="JavaScript" />
-  </span>
-  <span style="display:inline-flex;align-items:center;justify-content:center;width:56px;height:56px;border:1px solid #30363d;border-radius:14px;margin:6px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="30" title="TypeScript" />
-  </span>
-  <span style="display:inline-flex;align-items:center;justify-content:center;width:56px;height:56px;border:1px solid #30363d;border-radius:14px;margin:6px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" title="React" />
-  </span>
-  <span style="display:inline-flex;align-items:center;justify-content:center;width:56px;height:56px;border:1px solid #30363d;border-radius:14px;margin:6px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" width="30" title="React Native" />
-  </span>
-</div>
+
+<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+        div{
+           display: flex;         
+        }
+        span{
+          width:56px;
+          height:56px;
+          border:1px solid #30363d;
+          border-radius:14px;
+          margin:auto; 
+        }
+      </style>
+      <div align="left">
+        <span>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" title="HTML5" />
+        </span>
+        <span>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" title="CSS3" />
+        </span>
+        <span>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" title="JavaScript" />
+        </span>
+        <span>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="30" title="TypeScript" />
+        </span>
+        <span>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" title="React" />
+        </span>
+        <span>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" width="30" title="React Native" />
+        </span>
+      </div>
+		</div>
+	</foreignObject>
+</svg>
 
 
 
