@@ -30,30 +30,30 @@ Sou graduado em **Engenharia da Computação** e estou em constante evolução t
   <span style="display:inline-flex;align-items:center;justify-content:center;width:56px;height:56px;border:1px solid #30363d;border-radius:14px;margin:6px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" title="JavaScript" />
   </span>
-  <div style="display:inline-flex;align-items:center;justify-content:center;width:56px;height:56px;border:1px solid #30363d;border-radius:14px;margin:6px;">
+  <span style="display:inline-flex;align-items:center;justify-content:center;width:56px;height:56px;border:1px solid #30363d;border-radius:14px;margin:6px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="30" title="TypeScript" />
-  </div>
-  <div style="display:inline-flex;align-items:center;justify-content:center;width:56px;height:56px;border:1px solid #30363d;border-radius:14px;margin:6px;">
+  </span>
+  <span style="display:inline-flex;align-items:center;justify-content:center;width:56px;height:56px;border:1px solid #30363d;border-radius:14px;margin:6px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" title="React" />
-  </div>
-  <div style="display:inline-flex;align-items:center;justify-content:center;width:56px;height:56px;border:1px solid #30363d;border-radius:14px;margin:6px;">
+  </span>
+  <span style="display:inline-flex;align-items:center;justify-content:center;width:56px;height:56px;border:1px solid #30363d;border-radius:14px;margin:6px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" width="30" title="React Native" />
-  </div>
+  </span>
 </div>
 
 
 
 **Base técnica**
 <div style="display flex" align="left">
-  <div style="display:inline-flex;align-items:center;justify-content:center;width:56px;height:56px;border:1px solid #30363d;border-radius:14px;margin:6px;">
+  <span style="display:inline-flex;align-items:center;justify-content:center;width:56px;height:56px;border:1px solid #30363d;border-radius:14px;margin:6px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/delphi/delphi-original.svg" width="30" title="Delphi" />
-  </div>
-  <div style="display:inline-flex;align-items:center;justify-content:center;width:56px;height:56px;border:1px solid #30363d;border-radius:14px;margin:6px;">
+  </span>
+  <span style="display:inline-flex;align-items:center;justify-content:center;width:56px;height:56px;border:1px solid #30363d;border-radius:14px;margin:6px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" width="30" title="MariaDB" />
-  </div>
-  <div style="display:inline-flex;align-items:center;justify-content:center;width:56px;height:56px;border:1px solid #30363d;border-radius:14px;margin:6px;">
+  </span>
+  <span style="display:inline-flex;align-items:center;justify-content:center;width:56px;height:56px;border:1px solid #30363d;border-radius:14px;margin:6px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="30" title="MySQL" />
-  </div>
+  </span>
 </div>
 
 
