@@ -64,7 +64,7 @@ Sou graduado em **Engenharia da Computação** e estou em constante evolução t
 
 - **Portfólio pessoal**  
   Interface responsiva desenvolvida com HTML, CSS e JavaScript.  
-  👉 https://killdare.github.io/portfolio-kildare
+  👉 [https://killdare.github.io/portfolio-kildare](https://killdare.github.io/portfolio-moderno/)
 
 *(Outros projetos serão adicionados conforme evolução dos estudos e aplicações reais.)*
 
